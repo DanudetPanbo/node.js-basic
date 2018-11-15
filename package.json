@@ -8,7 +8,7 @@
     "dev": "nodemon src/app.js"
   },
   "keywords": [],
-  "author": "Riduwan Soolaeh",
+  "author": "Danudet Panbo",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.6.1",
