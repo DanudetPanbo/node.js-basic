@@ -20,7 +20,7 @@ app.set('view engine', 'ejs');
 
 //route
 app.get('/', (req, res) => {
-    res.render('index', {name: "Riduwan"});
+    res.render('index', {name: "Danudet"});
  });
 
 app.use('/todos', todos);
